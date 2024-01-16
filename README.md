@@ -9,4 +9,4 @@ Online E-commerce websites like Amazon, Filpkart uses different recommendation m
 # Refernces
 The dataset here is taken from the below website.
 
-Source - Amazon Reviews data ([http://jmcauley.ucsd.edu/data/amazon/]) The repository has several datasets. For this case study, we are using the Electronics dataset.
+Source - Amazon Reviews data (http://jmcauley.ucsd.edu/data/amazon/) The repository has several datasets. For this case study, we are using the Electronics dataset.
